@@ -341,6 +341,11 @@
           <artifactId>protobuf-maven-plugin</artifactId>
           <version>0.6.1</version>
         </plugin>
+        <plugin>
+           <groupId>org.jacoco</groupId>
+           <artifactId>jacoco-maven-plugin</artifactId>
+           <version>0.8.6</version>
+         </plugin>
       </plugins>
     </pluginManagement>
     <plugins>
@@ -363,6 +368,25 @@
         <artifactId>maven-enforcer-plugin</artifactId>
         <version>${maven-enforcer-plugin.version}</version>
       </plugin>
+        <plugin>
+                <groupId>org.jacoco</groupId>
+                <artifactId>jacoco-maven-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>prepare-agent</id>
+                        <goals>
+                            <goal>prepare-agent</goal>
+                        </goals>
+                    </execution>
+                    <execution>
+                        <id>report</id>
+                        <goals>
+                            <goal>report</goal>
+                        </goals>
+                        <phase>verify</phase>
+                    </execution>
+                </executions>
+            </plugin>
     </plugins>
   </build>
 </project>
