@@ -1,14 +1,14 @@
 
 ## runforesight.com Demo Projects - Truth 
 
-<a href="https://foresight.thundra.live/repositories/github/runforesight-demo/truth/workflow-runs">
+<a href="https://app.runforesight.live/repositories/github/runforesight-demo/truth/workflow-runs">
   <img src="https://4750167.fs1.hubspotusercontent-na1.net/hubfs/4750167/foresight-live-badge-72.png" height="36" alt="see it on foresight" />
 </a>
 
 ---
-![Success Details](http://foresight.service.thundra.us/public/api/v1/badge/success?repoId=4e5ac6ad-a331-47cd-b914-b8441324c03f)
-![Test Result](http://foresight.service.thundra.us/public/api/v1/badge/test?repoId=4e5ac6ad-a331-47cd-b914-b8441324c03f)
-![Utilization](http://foresight.service.thundra.us/public/api/v1/badge/utilization?repoId=4e5ac6ad-a331-47cd-b914-b8441324c03f)
+![Success Details](http://foresight.service.thundra.us/public/api/v1/badge/success?repoId=36caa0d9-9124-4ad4-9bf6-cd0503846bdc)
+![Test Result](http://foresight.service.thundra.us/public/api/v1/badge/test?repoId=36caa0d9-9124-4ad4-9bf6-cd0503846bdc)
+![Utilization](http://foresight.service.thundra.us/public/api/v1/badge/utilization?repoId=36caa0d9-9124-4ad4-9bf6-cd0503846bdc)
 
 
 | Report Attribute  | Value   | 
