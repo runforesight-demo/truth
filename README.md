@@ -13,8 +13,8 @@
 
 | Report Attribute  | Value   | 
 |---|---|
-| Language  | Python |
-| Test Framework  | Pytest |
-| Test Report Format | Junit |
-| Coverage Format | --- |
+| Language  | Java |
+| Test Framework  | Junit |
+| Test Report Format | JUnit |
+| Coverage Format | Jacoco / XML  |
 
